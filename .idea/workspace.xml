@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f272ebdb-591e-472b-aa08-eba5fb79f4fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/Repo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/StudentRegistrationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/controller/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/example/StudentRegistration/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/model/CustomUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/java/com/service/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/resources/templates/register_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/resources/templates/signup_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/main/resources/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_-registration-main/src/test/java/com/example/StudentRegistration/StudentRegistrationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/MavenWrapperDownloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hosts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/tests/inventory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/tests/test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/myrole/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/playbook.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Repo/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/StudentRegistrationApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/controller/AppController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/example/StudentRegistration/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/model/CustomUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/service/CustomUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/templates/register_success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/templates/signup_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/templates/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/example/StudentRegistration/StudentRegistrationApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minikube-linux-amd64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Repo/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/StudentRegistrationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/AppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/StudentRegistration/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/model/CustomUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register_success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/signup_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/StudentRegistration/StudentRegistrationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/register_success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/signup_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.StudentRegistration.StudentRegistrationApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.StudentRegistration.StudentRegistrationApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/StudentRegistration/StudentRegistrationApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="22N8Sg675EJkbAgwMZFRryOPTlq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.StudentRegistration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentRegistrationApplication (1)">
+    <configuration name="StudentRegistrationApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.StudentRegistrationApplication" />
+      <module name="StudentRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistrationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.StudentRegistration.StudentRegistrationApplication" />
+      <module name="StudentRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.StudentRegistration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentRegistrationApplication (1)" />
+        <item itemvalue="Application.StudentRegistrationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f272ebdb-591e-472b-aa08-eba5fb79f4fa" name="Changes" comment="" />
+      <created>1639666690202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639666690202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
