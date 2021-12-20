@@ -41,10 +41,10 @@ pipeline {
                 branch "prod"
                 }
             steps{
-                sh 'docker tag capstone-img:1.01 shubham3197/capstone:1.01 '
+                sh 'docker tag capstone-img:1.01 sachinkumar2507/capstone:1.01 '
                 sh 'echo $dockerhub_PSW | docker login -u $dockerhub_USR --password-stdin'
 
-                sh 'docker push shubham3197/capstone:1.01 '
+                sh 'docker push sachinkumar2507/capstone:1.01 '
             }
         }
      

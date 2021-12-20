@@ -26,42 +26,8 @@ spec:
           - name: SQL_PORT
             value: "3306"
           - name: SQL_USR
-            value: "user"
+            value: "root"
           - name: SQL_PW
-            value: "root@1234"
+            value: "sachin@123"
           - name: SQL_TABLE
-            value: "mydb"
-#################################################################
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: capstone
-  labels:
-    app: myweb
-spec:
-  type: NodePort
-  ports:
-  - port: 8081
-    targetPort: 8081
-    nodePort: 30000
-    protocol: TCP
-  selector:
-    app: capstone
-
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: sql
-  labels:
-    app: myweb
-
-
-spec:
-  ports:
-  - port: 3306
-    targetPort: 3306
-    protocol: TCP
-  selector:
-    app: sql
+            value: "student"
